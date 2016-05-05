@@ -1,3 +1,4 @@
+@batch1
 Feature: Browsing around
 
   Scenario: The home page
