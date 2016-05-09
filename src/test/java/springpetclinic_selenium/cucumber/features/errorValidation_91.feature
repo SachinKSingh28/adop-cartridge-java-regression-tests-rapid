@@ -1,5 +1,5 @@
 @batch4
-Feature: Browsing around
+Feature: Browsing around errorValidation_91
 
   Scenario: The home page
     Given I am on the home page

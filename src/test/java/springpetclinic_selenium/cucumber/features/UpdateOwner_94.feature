@@ -1,5 +1,5 @@
 @batch5
-Feature: Adding a Pet Owner
+Feature: Adding a Pet Owner UpdateOwner_94
  
 	Scenario: Adding a Pet Owner the Petclinic project.
 		Given a User wishes to add a Pet Owner to the Petclinic project.

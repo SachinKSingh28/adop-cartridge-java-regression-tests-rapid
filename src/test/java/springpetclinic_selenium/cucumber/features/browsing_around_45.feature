@@ -1,5 +1,5 @@
 @batch1
-Feature: Browsing around
+Feature: Browsing around browsing_around_45
 
   Scenario: The home page
     Given I am on the home page
