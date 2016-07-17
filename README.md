@@ -1,6 +1,6 @@
 # Spring Petclinic Regression Test Repository
 
-This repository is used by [adop-cartridge-java](https://github.com/Accenture/adop-cartridge-java) to run regression tests against spring petclinic application.
+This repository is used by [adop-cartridge-java](https://github.com/Accenture/adop-cartridge-java) to run regression tests in a rapid manner against spring petclinic application.
 
 # License
 Please view [license information](LICENSE.md) for the software contained on this image.
